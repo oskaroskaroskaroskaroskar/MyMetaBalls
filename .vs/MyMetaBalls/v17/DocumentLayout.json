@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{420A32E9-42F8-317F-F83B-D199F14C51E8}|Assembly-CSharp.csproj|C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\assets\\scripts\\drawmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420A32E9-42F8-317F-F83B-D199F14C51E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drawmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420A32E9-42F8-317F-F83B-D199F14C51E8}|Assembly-CSharp.csproj|C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\assets\\scripts\\mymetaball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420A32E9-42F8-317F-F83B-D199F14C51E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mymetaball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420A32E9-42F8-317F-F83B-D199F14C51E8}|Assembly-CSharp.csproj|c:\\users\\thema\\documents\\github\\mymetaballs\\assets\\scripts\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420A32E9-42F8-317F-F83B-D199F14C51E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420A32E9-42F8-317F-F83B-D199F14C51E8}|Assembly-CSharp.csproj|C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\assets\\scripts\\cubegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420A32E9-42F8-317F-F83B-D199F14C51E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cubegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420A32E9-42F8-317F-F83B-D199F14C51E8}|Assembly-CSharp.csproj|C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\assets\\scripts\\mousetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420A32E9-42F8-317F-F83B-D199F14C51E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mousetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420A32E9-42F8-317F-F83B-D199F14C51E8}|Assembly-CSharp.csproj|C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\assets\\scripts\\mousedraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420A32E9-42F8-317F-F83B-D199F14C51E8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mousedraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MouseDraw.cs",
+              "DocumentMoniker": "C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\Assets\\Scripts\\MouseDraw.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseDraw.cs",
+              "ToolTip": "C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\Assets\\Scripts\\MouseDraw.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseDraw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:54:15.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MouseTracker.cs",
+              "DocumentMoniker": "C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\Assets\\Scripts\\MouseTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseTracker.cs",
+              "ToolTip": "C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\Assets\\Scripts\\MouseTracker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:08:42.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrawManager.cs",
+              "DocumentMoniker": "C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\Assets\\Scripts\\DrawManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DrawManager.cs",
+              "ToolTip": "C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\Assets\\Scripts\\DrawManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DrawManager.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAlwE4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:54:12.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyMetaBall.cs",
+              "DocumentMoniker": "C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\Assets\\Scripts\\MyMetaBall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MyMetaBall.cs",
+              "ToolTip": "C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\Assets\\Scripts\\MyMetaBall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MyMetaBall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:01:21.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CubeGrid.cs",
+              "DocumentMoniker": "C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\Assets\\Scripts\\CubeGrid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CubeGrid.cs",
+              "ToolTip": "C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\Assets\\Scripts\\CubeGrid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CubeGrid.cs",
+              "ViewState": "AgIAAAYCAAAAAAAAAAAiwCoCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:43:23.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\Assets\\Scripts\\Container.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Container.cs",
+              "ToolTip": "C:\\Users\\thema\\Documents\\GitHub\\MyMetaBalls\\Assets\\Scripts\\Container.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Container.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA7wFQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:38:46.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
